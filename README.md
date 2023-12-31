@@ -1,12 +1,11 @@
-![IMG-20231215-WA0010](https://github.com/Alexis00789/Alexis00789/assets/130730245/84bc3634-e3c3-4d65-be68-e6d30d7f925d)
+
 - 👋 Hi, I’m @Alexis00789
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-<!---
-Alexis00789/Alexis00789 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+<!a ✨ special ✨ repository because its `README.md` (thisrs on your GitHub profile.
+You can click the Preview link to take a look at 
 --->
 que haces 
